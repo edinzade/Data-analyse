@@ -1,0 +1,13 @@
+Imagine you're managing a small tech company with 8 employees. At the end of the year, you piece together some data about 
+your employees, with the intention of understanding better the state of your company. The data you collected is 
+straightforward, and you can quickly make a few conclusions just by using a bit of arithmetics and logic.
+
+But years have gone by, and your business has grown into a successful company with 231 employees. 
+You still want to get insights from data, but now you have so much of it that analyzing it has become 
+difficult and inconvenient. As you continue to scale your company, analyzing data slowly gears toward becoming an 
+impossible task.
+
+Using statistical techniques, we can organize, summarize, and visualize large amounts of data to find patterns 
+that otherwise would remain hidden.
+In the case of a sample, you'll often see this terminology used interchangeably: 
+sample unit, sample point, sample individual, or sample observation.
